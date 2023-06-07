@@ -1,0 +1,44 @@
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.awal{
+  text-align: center;
+}
+.left{
+  margin-right: auto;
+} 
+.right{
+  margin-left: auto;
+}
+.center{
+  margin: 0 auto;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  text-align: center;
+}
+.bawah{
+  text-align: justify;
+}
+
+.center2{
+  margin-bottom: auto;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+.bottom{
+  margin-top: 80px;
+
+}
+.cards{
+  display: grid;
+  grid-gap: 30px;
+
+}
+.paragraf-projects{
+  text-align: center;
+}
